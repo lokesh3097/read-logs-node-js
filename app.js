@@ -27,5 +27,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(port, () => {
-  	console.log(`Example app listening at http://localhost:${port}`)
+  	console.log(`read-logs listening at http://localhost:${port}`)
 });
